@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0168-excel-sheet-column-title) |
+| [0507-perfect-number](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0507-perfect-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
