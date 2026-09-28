@@ -16,6 +16,7 @@
 | [0125-valid-palindrome](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0567-permutation-in-string) |
 ## Array
 |  |
 | ------- |
@@ -55,4 +56,13 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0567-permutation-in-string) |
+## Hash Table
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
