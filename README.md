@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0168-excel-sheet-column-title) |
+| [0344-reverse-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0344-reverse-string) |
 ## Array
 |  |
 | ------- |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0204-count-primes) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
