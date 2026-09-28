@@ -13,6 +13,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0344-reverse-string) |
 ## Array
@@ -51,5 +52,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
