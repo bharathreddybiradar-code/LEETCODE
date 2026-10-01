@@ -26,6 +26,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0001-two-sum) |
 | [0204-count-primes](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0217-contains-duplicate) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0567-permutation-in-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0412-fizz-buzz) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
