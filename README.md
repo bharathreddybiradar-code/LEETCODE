@@ -19,6 +19,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0567-permutation-in-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0567-permutation-in-string) |
@@ -72,6 +73,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
@@ -99,6 +101,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
 | ------- |
