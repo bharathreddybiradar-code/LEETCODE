@@ -23,6 +23,7 @@
 | [0344-reverse-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0567-permutation-in-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
@@ -117,4 +118,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0075-sort-colors) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
