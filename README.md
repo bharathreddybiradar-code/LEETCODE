@@ -23,6 +23,7 @@
 | [0242-valid-anagram](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0412-fizz-buzz) |
+| [0451-sort-characters-by-frequency](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
@@ -84,6 +85,7 @@
 | [0205-isomorphic-strings](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
@@ -113,6 +115,7 @@
 | [0088-merge-sorted-array](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 ## Greedy
 |  |
 | ------- |
@@ -133,4 +136,16 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
