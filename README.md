@@ -34,6 +34,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0217-contains-duplicate) |
@@ -150,4 +151,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
