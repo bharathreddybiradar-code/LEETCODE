@@ -42,6 +42,7 @@
 | [0169-majority-element](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0283-move-zeroes) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -84,6 +85,7 @@
 | [0088-merge-sorted-array](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0567-permutation-in-string) |
 ## Hash Table
