@@ -13,6 +13,7 @@
 | [0507-perfect-number](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
+| [3536-maximum-product-of-two-digits](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
@@ -129,6 +130,7 @@
 | [0242-valid-anagram](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3536-maximum-product-of-two-digits](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
 | ------- |
