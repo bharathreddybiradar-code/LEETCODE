@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0205-isomorphic-strings) |
@@ -178,4 +179,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
