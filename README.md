@@ -9,6 +9,7 @@
 | [0069-sqrtx](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0509-fibonacci-number) |
@@ -44,6 +45,7 @@
 | [0169-majority-element](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0283-move-zeroes) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -55,6 +57,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -98,6 +101,7 @@
 | [0205-isomorphic-strings](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0567-permutation-in-string) |
 ## Sliding Window
@@ -129,6 +133,7 @@
 | [0169-majority-element](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3536-maximum-product-of-two-digits](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
@@ -171,6 +176,7 @@
 | ------- |
 | [0136-single-number](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0268-missing-number) |
 ## Trie
 |  |
 | ------- |
