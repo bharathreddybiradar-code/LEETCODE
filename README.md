@@ -54,6 +54,7 @@
 | [0229-majority-element-ii](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
