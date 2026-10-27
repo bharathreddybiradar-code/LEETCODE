@@ -226,4 +226,8 @@
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
