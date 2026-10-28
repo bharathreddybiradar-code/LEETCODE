@@ -60,6 +60,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
@@ -126,6 +127,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0509-fibonacci-number) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -193,6 +195,7 @@
 | [0136-single-number](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0268-missing-number) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Trie
 |  |
 | ------- |
@@ -226,6 +229,7 @@
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Database
 |  |
 | ------- |
