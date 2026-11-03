@@ -13,6 +13,7 @@
 | [0204-count-primes](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0509-fibonacci-number) |
@@ -58,6 +59,7 @@
 | [0229-majority-element-ii](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0283-move-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
