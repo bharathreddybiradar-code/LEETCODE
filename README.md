@@ -44,6 +44,7 @@
 | [0014-longest-common-prefix](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0031-next-permutation) |
+| [0054-spiral-matrix](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0136-single-number) |
@@ -149,6 +150,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0412-fizz-buzz) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -239,6 +241,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0054-spiral-matrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Database
