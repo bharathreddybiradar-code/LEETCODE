@@ -63,6 +63,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -80,6 +81,7 @@
 | [0069-sqrtx](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0268-missing-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Newton's Method
 |  |
 | ------- |
@@ -118,6 +120,7 @@
 | [0283-move-zeroes](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0567-permutation-in-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -172,6 +175,7 @@
 | [0268-missing-number](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3536-maximum-product-of-two-digits](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
