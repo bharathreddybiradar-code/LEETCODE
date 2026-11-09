@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0168-excel-sheet-column-title) |
@@ -46,6 +47,7 @@
 | [0014-longest-common-prefix](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0088-merge-sorted-array) |
@@ -267,6 +269,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0054-spiral-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
