@@ -50,6 +50,7 @@
 | [0075-sort-colors](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -149,6 +150,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0509-fibonacci-number) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
