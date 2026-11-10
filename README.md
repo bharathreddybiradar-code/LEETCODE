@@ -78,6 +78,7 @@
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3693-climbing-stairs-ii](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -156,6 +157,7 @@
 | [0119-pascals-triangle-ii](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0509-fibonacci-number) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3693-climbing-stairs-ii](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
