@@ -50,6 +50,7 @@
 | [0031-next-permutation](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0118-pascals-triangle) |
@@ -135,6 +136,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0217-contains-duplicate) |
@@ -275,6 +277,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [1267-count-servers-that-communicate](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
