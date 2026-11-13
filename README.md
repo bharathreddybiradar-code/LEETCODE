@@ -78,6 +78,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -153,6 +154,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0567-permutation-in-string) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Dynamic Programming
 |  |
@@ -254,6 +256,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0020-valid-parentheses) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -291,4 +294,20 @@
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Segment Tree
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
