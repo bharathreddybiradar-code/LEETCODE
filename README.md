@@ -18,6 +18,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0509-fibonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3536-maximum-product-of-two-digits](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
@@ -73,6 +74,7 @@
 | [1267-count-servers-that-communicate](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1882-process-tasks-using-servers](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1882-process-tasks-using-servers) |
@@ -166,6 +168,7 @@
 | [0118-pascals-triangle](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0509-fibonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -318,5 +321,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
