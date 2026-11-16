@@ -40,6 +40,7 @@
 | [0567-permutation-in-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Array
 |  |
@@ -190,6 +191,7 @@
 | [0412-fizz-buzz](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0412-fizz-buzz) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Sorting
 |  |
 | ------- |
