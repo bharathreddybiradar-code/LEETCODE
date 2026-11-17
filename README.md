@@ -54,6 +54,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0075-sort-colors) |
@@ -171,6 +172,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0509-fibonacci-number) |
@@ -233,6 +235,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
