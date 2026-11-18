@@ -42,6 +42,7 @@
 | [0796-rotate-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Array
 |  |
