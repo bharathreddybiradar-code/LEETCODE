@@ -101,6 +101,7 @@
 | [3693-climbing-stairs-ii](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3934-smallest-unique-subarray](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
@@ -110,6 +111,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0268-missing-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3934-smallest-unique-subarray](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3934-smallest-unique-subarray) |
 ## Newton's Method
 |  |
 | ------- |
@@ -173,6 +175,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0567-permutation-in-string) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3934-smallest-unique-subarray](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3934-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -354,4 +357,16 @@
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
