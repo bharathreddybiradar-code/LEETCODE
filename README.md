@@ -104,6 +104,7 @@
 | [3882-minimum-xor-path-in-a-grid](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3934-smallest-unique-subarray](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -199,6 +200,7 @@
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Recursion
 |  |
 | ------- |
@@ -241,6 +243,7 @@
 | [0011-container-with-most-water](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Quicksort
 |  |
 | ------- |
