@@ -105,6 +105,7 @@
 | [3934-smallest-unique-subarray](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -237,6 +238,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3536-maximum-product-of-two-digits](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -244,6 +246,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Quicksort
 |  |
 | ------- |
@@ -269,6 +272,7 @@
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/bharathreddybiradar-code/LEETCODE/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Bucket Sort
 |  |
 | ------- |
